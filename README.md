@@ -1,6 +1,6 @@
 ### resume
 
-server siede programmer in China.
+Server side programmer in China.
 
 wechat: sysopcode
 
